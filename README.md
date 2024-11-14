@@ -6,7 +6,7 @@
 
 同时也包含含有数据记录表格的实验报告模板，节省做实验时绘制表格的时间。
 
-### 文件结构
+## 文件结构
 
 - **光的干涉法测凸透镜曲率半径**：
   - 实验记录图像
@@ -43,15 +43,15 @@
 - **红外通信特征实验**：
   - 实验记录图像
 
-### 下载原始数据处理表格步骤
+## 下载原始数据处理表格步骤
 
-#### 方法一：直接在GitHub网页中下载
+### 方法一：直接在GitHub网页中下载
 
 1. 在 **原始数据处理表** 文件夹中，选择你想要下载的 **.xlsx** 数据表。
 2. 点击打开对应的 **.xlsx** 文件。
 3. 单击右侧的 "Download raw file" 按钮，下载表格文件。
 
-#### 方法二：使用Git命令行下载
+### 方法二：使用Git命令行下载
 
 1. 克隆整个仓库到本地：
 
@@ -60,13 +60,16 @@
    ```
 
 2. 进入仓库目录：
-
     ```bash
     cd Physics-experiment-report-of-Chongqing-University-of-Posts-and-Telecommunications-CQUPT-
     ```
 
 3. 找到你需要的表格文件（例如原始数据处理表文件夹内的应变片.xlsx），并使用本地文件管理器直接打开，或通过命令行打开：
-
     ```bash
     open 原始数据处理表/应变片.xlsx
     ```
+# All Thanks To Our Contributors
+
+<a href="https://github.com/Spirulina-Lee/CQUPT-Physics-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Spirulina-Lee/CQUPT-Physics-Lab" />
+</a>
