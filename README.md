@@ -27,9 +27,11 @@
     - 液晶电光效应综合实验.xlsx
     - 红外通信特征实验.xlsx
     - 光的干涉法测平凸透镜曲率半径.xlsx
+    - 声速的多途径综合测量.xlsx
 
 - **声速的多途径综合测量**：
   - 实验记录图像
+  - 声速的多途径综合测量.xlsx
 
 - **密立根油滴实验**：
   - 实验记录图像
@@ -60,14 +62,17 @@
    ```
 
 2. 进入仓库目录：
+
     ```bash
     cd Physics-experiment-report-of-Chongqing-University-of-Posts-and-Telecommunications-CQUPT-
     ```
 
 3. 找到你需要的表格文件（例如原始数据处理表文件夹内的应变片.xlsx），并使用本地文件管理器直接打开，或通过命令行打开：
+
     ```bash
     open 原始数据处理表/应变片.xlsx
     ```
+
 # All Thanks To Our Contributors
 
 <a href="https://github.com/Spirulina-Lee/CQUPT-Physics-Lab/graphs/contributors">
